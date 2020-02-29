@@ -5,3 +5,4 @@ The followings are the file you can find in this repository and their descriptio
 - Mod 1 -                   Project Final.ipynb - Module 1 Project's Jupyter Notebook.
 - presentation.pdf -        High-level presentation of your methodology and recommendations for non-technical stakeholders
 - README.md -               Descriptions of contents of the repository
+- kc_house_data -           Original dataset of King Country House Prices
